@@ -1,4 +1,4 @@
 variable "ins-name" {
-  default = "default-nstance"
+  default = "new-name-changed"
   
 }
